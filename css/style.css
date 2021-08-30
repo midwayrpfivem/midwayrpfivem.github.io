@@ -1,7 +1,7 @@
 body {
   background: url('bilder/6148.jpg') no-repeat;
   background-size: cover;
-  cursor: url(./source/cursor.cur), auto !important;
+  cursor: url(../source/cursor.cur), auto !important;
   color: #fff;
   overflow: hidden;
   font-family: monospace;
@@ -18,7 +18,7 @@ li a
 {
     text-decoration: none;
     
-    display: block
+    display: block;
     color: black;
     line-height: 42px;
     /*transition: background 0.5s;*/
@@ -97,13 +97,6 @@ ul > li:hover > ul
     margin-right: 1px;
 }
 
-#navmenu {
-	position: absolute;
- 	left: 50%;
- 	top: 4%;
- 	transform: translate(-50%, -50%);
-	text-align: center;
-}
 
 ul.items li
 {

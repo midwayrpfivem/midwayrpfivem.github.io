@@ -1,10 +1,11 @@
 
+
 @font-face {
 	font-family: "Delight Crush Display - Personal";
-	src: url(./source/Blaize.otf);
+	src: url(../source/font.ttf);
 }
 
-#midwayrp {               
+#crushen {               
  	position: absolute;
  	left: 50%;
  	top: 1000%;
